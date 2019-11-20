@@ -1,0 +1,40 @@
+/*style of header*/
+.header {
+  position: relative;
+  overflow: hidden;
+  background-color: grey;
+  padding: 20px 10px;
+
+}
+
+/*style of header links*/
+.header a {
+  float: center;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  font-size: 20px;
+  line-height: 20px;
+  border-radius: 7px;
+
+}
+
+/*style of :hover for header*/
+.header a:hover {
+ background-color: blue;
+  color: white;
+}
+
+
+/*style of error*/
+.error a{
+	color: red;
+}
+
+/*style of footer*/
+.footer {
+  position: relative;
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
